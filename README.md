@@ -1,6 +1,6 @@
 # Trendify – Online Shopping Store 🛒
 
-**Trendify** is a full-stack, web-based **Online Shopping Store Management System** developed as part of the **1st Year, 2nd Semester** module **IT1100 – Introduction to Web Technologies**.  
+**Trendify** is a full-stack, web-based **Online Shopping Store Management System** developed as part of the **1st Year, 2nd Semester** module **IT1100 – Introduction to Web Technologies** for the BSc (Hons) in Information Technology degree program.  
 The project simulates real-world e-commerce workflows by implementing complete CRUD functionality, secure data handling, and a scalable, database-driven architecture using fundamental web technologies.
 
 This system demonstrates practical experience in full-stack web development and role-based system design, providing strong preparation for software engineering and web development internships.
