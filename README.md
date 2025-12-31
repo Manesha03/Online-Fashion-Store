@@ -87,4 +87,4 @@ This project is developed **strictly for academic and educational purposes only*
 
 ---
 
-## 🛍️ Happy Shopping!
+🛍️ Happy Shopping!
